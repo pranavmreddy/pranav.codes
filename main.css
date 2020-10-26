@@ -18,13 +18,34 @@ hr{
     background-color: 	#e1e1e1;
 }
 
+a:link{
+    color: #e1e1e1;
+}
+
+a:visited{
+    color: #e1e1e1;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #A9A9A9;
+}
+
+a:active{
+    text-decoration: none;
+    color: #808080;
+}
+
 .tag{
     font-size: 1.25rem;
 }
 
+.link_icon{
+    font-size: 2rem;
+}
+
 #name{
     font-size: 2.5rem;
-    /*font-weight: 700;*/
 }
 
 #profilepic{
